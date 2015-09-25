@@ -1,7 +1,7 @@
 # Webpage Correlation Engine
 
-@author Mohit Mishra
-Indian Institute of Technology (BHU) Varanasi
+Mohit Mishra, 
+Indian Institute of Technology (BHU) Varanasi, 
 Language: Java
 
 This project/software basically clusters out similar pages in one clusters. 
